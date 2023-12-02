@@ -1,0 +1,131 @@
+/* ul{
+    list-style-type:georgian;
+} */
+
+
+
+/* order list */
+/* ol{
+    list-style-type: upper-latin;
+} */
+
+/* Images for bullets */
+/* ul{
+    list-style-image: url('./images/icons8-right-94.png');
+}
+
+li{
+    margin: 10px 0px 0px 0px ;
+} */
+
+/* List style position */
+/* .illuminations{
+    list-style-position: outside;
+}
+.season{
+    list-style-position: inside;
+} */
+
+/* list shorthand */
+/* ul{
+    list-style: inside square;
+} */
+
+/* Table properties */
+/* body {
+    font-family: Arial, Verdana, sans-serif;
+    color: #111111;}
+    table {
+    width: 600px;}
+    th, td {
+    padding: 7px 10px 10px 10px;}
+    th {
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 90%;
+    border-bottom: 2px solid #111111;
+    border-top: 1px solid #999;
+    text-align: left;}
+    tr.even {
+    background-color: #efefef;}
+    tr:hover {
+    background-color: #c3e6e5;}
+    .money {
+    text-align: right;
+} */
+
+/* BORDER ON EMPTY CELLS */
+/* td {
+    border: 1px solid #0088dd;
+    padding: 15px;}
+    table.one {
+    empty-cells: show;}
+    table.two {
+    empty-cells: hide;
+} */
+
+/* GAPS BETWEEN CELLS */
+/* td {
+    background-color: #0088dd;
+    padding: 15px;
+    border: 2px solid #000000;}
+    table.one {
+    border-spacing: 5px 15px;}
+    table.two {
+    border-collapse: collapse;
+} */
+
+/* STYLING FORMS */
+ /* #ln{ 
+    margin-top: 5px;
+} */
+/* input{
+    font-size: xx-large;
+    color: red;
+    background-color: aqua;
+} */
+/* input{
+    border: 5px solid red;
+    border-radius: 10px;
+} */
+/* input:hover{
+    background-color: lightblue;
+} */
+/* input:focus{
+    border: 5px solid red;
+    outline: none;
+} */
+
+/* #email{
+    background-image: url("./img/icons8-email-48.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+}
+#github{
+    background-image: url("./img/icons8-github-48.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    padding-left: 20px;
+} */
+
+/* FIELDSET AND LEGEND */
+/* fieldset {
+    width: 350px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;}
+    legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-align: left;
+    text-transform: uppercase;
+} */
+
+/* CURSOR STYLES */
+/* #submit-btn:hover{
+    cursor: pointer;
+} */
